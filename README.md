@@ -1,5 +1,5 @@
 # chatbot
-This weeks project was to build a chatbot, to practise JavaScript and connection to HTML:
+This weeks project was to build a chatbot, to practise JavaScript and connection to HTML.
 
 ## The problem
 By using course information, videos and exercises in code pen we created the chatbox.
