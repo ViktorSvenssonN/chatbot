@@ -1,3 +1,8 @@
+/* Here we modified what was already their, we put in a 
+background pictures, changed the images of the bot and user
+we also added styling for the select-element (drop down menu)
+you'll find that at the bottom of "style.css" */
+
 * {
   box-sizing: border-box;
 }
@@ -6,7 +11,6 @@ body {
   margin: 0;
   padding: 0;
   font-family: 'Courirer New', monospace;
-  /*background: rgb(180 0 255 / 94%); */
   background-image: url("./IMAGES/backgroundletters.jpg");
   background-size: 100%;
 }
@@ -77,7 +81,7 @@ main {
 .bot-msg {
   display: flex;
   margin: 16px 8px 0 0;
-  flex-shrink: 0;
+  flex-shrink: 10;
 }
 
 .user-msg {
